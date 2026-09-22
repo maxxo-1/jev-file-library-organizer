@@ -4,6 +4,10 @@ A privacy-conscious macOS workflow for classifying, renaming and organizing imag
 
 The optional metadata workflow supports a lower-cost first-pass model, a stronger refinement model for uncertain records, and TypeSafe for consistent controlled-topic selection. Model choices are configurable.
 
+## Why this exists
+
+I had thousands of screenshots with filenames that told me when they were captured, but nothing about what was in them. They had no useful descriptions, no consistent metadata and no practical way to search the collection. The launch of TypeSafe's Jev inspired me to build a local-first workflow that could classify the files, add meaningful names and metadata, and turn the collection into a searchable library.
+
 ## Dashboard preview
 
 ![Example of the searchable local file-library dashboard](docs/dashboard-sample.png)
