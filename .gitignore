@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.venv/
+.build/
+__pycache__/
+*.pyc
+config.json
+.organizer/
+dashboard/
+catalog.csv
+review.csv
+LIBRARY-REPORT.md
+bin/
+service.log
+service-error.log

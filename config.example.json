@@ -1,0 +1,26 @@
+{
+  "roots": [
+    "~/Pictures/Screenshots",
+    "~/Downloads"
+  ],
+  "state_dir": ".organizer",
+  "typesafe_model": "jev-latest",
+  "dashboard_port": 48763,
+  "excluded_folders": [
+    "Applications",
+    "Library"
+  ],
+  "protected_path_parts": [
+    "assets",
+    "public",
+    "dist"
+  ],
+  "categories": {
+    "Work and Research": "Reports, presentations, notes, research and professional reference material.",
+    "Technology": "Software, hardware, artificial intelligence, automation and technical documentation.",
+    "Media and Design": "Photos, screenshots, illustrations, logos and reusable visual assets.",
+    "Personal": "Travel, home, hobbies, family and everyday life.",
+    "Records": "Receipts, invoices, agreements, forms and confirmations.",
+    "Needs Visual Review": "The available filename and extracted evidence do not establish a reliable subject."
+  }
+}
