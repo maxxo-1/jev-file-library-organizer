@@ -8,6 +8,20 @@ The optional metadata workflow supports a lower-cost first-pass model, a stronge
 
 ![Example of the searchable local file-library dashboard](docs/dashboard-sample.png)
 
+## Dashboard features
+
+- Search descriptions, filenames, keywords, named entities, visible content, paths and controlled topics.
+- Filter by subject, file type, purpose, source folder, review status and newly added files.
+- Preview images, PDFs and sampled video frames.
+- Compare original and descriptive filenames.
+- Open files in their final local location.
+- Edit descriptions, keywords, entities, visible content and purpose.
+- Rename files flagged for review.
+- Move review files to the macOS Trash with confirmation.
+- Export the complete catalog and review queue.
+- Verify file integrity using stored SHA-256 fingerprints.
+- Use the responsive layout on desktop and mobile screens.
+
 ```mermaid
 flowchart LR
   A[Configured folders] --> B[Local extraction]
@@ -28,7 +42,6 @@ flowchart LR
 - Routes ambiguous files and every video to a visual review queue.
 - Keeps Git projects and configured asset folders in place.
 - Refuses overwrites, records recoverable moves and verifies SHA-256 after every move.
-- Generates a local dashboard with descriptive metadata search, filters, renaming and macOS Trash controls.
 
 ## Requirements
 
