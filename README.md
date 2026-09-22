@@ -4,6 +4,10 @@ A privacy-conscious macOS workflow for classifying, renaming and organizing imag
 
 The optional metadata workflow supports a lower-cost first-pass model, a stronger refinement model for uncertain records, and TypeSafe for consistent controlled-topic selection. Model choices are configurable.
 
+## Dashboard preview
+
+![Example of the searchable local file-library dashboard](docs/dashboard-sample.png)
+
 ```mermaid
 flowchart LR
   A[Configured folders] --> B[Local extraction]
