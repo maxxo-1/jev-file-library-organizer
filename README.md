@@ -8,6 +8,8 @@ The optional metadata workflow supports a lower-cost first-pass model, a stronge
 
 I had thousands of screenshots with filenames that told me when they were captured, but nothing about what was in them. They had no useful descriptions, no consistent metadata and no practical way to search the collection. The launch of TypeSafe's Jev inspired me to build a local-first workflow that could classify the files, add meaningful names and metadata, and turn the collection into a searchable library.
 
+In the original run, TypeSafe processing for roughly 7,500 files cost $0.51. Actual costs will vary with file content and current pricing.
+
 ## Dashboard preview
 
 ![Example of the searchable local file-library dashboard](docs/dashboard-sample.png)
