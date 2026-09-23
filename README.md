@@ -1,6 +1,6 @@
 # File Library Organizer
 
-A privacy-conscious macOS workflow for classifying, renaming and organizing images, PDFs and MP4 videos while preserving the original bytes. It combines local extraction, TypeSafe classification, deterministic safety checks, persistent metadata and a searchable local dashboard.
+MacOS workflow for classifying, renaming and organizing images, PDFs and MP4 videos while preserving the original bytes. It combines local extraction, TypeSafe classification, deterministic safety checks, persistent metadata and a searchable local dashboard.
 
 The optional metadata workflow supports a lower-cost first-pass model, a stronger refinement model for uncertain records, and TypeSafe for consistent controlled-topic selection. Model choices are configurable.
 
